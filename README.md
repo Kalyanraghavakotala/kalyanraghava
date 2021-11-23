@@ -8,7 +8,8 @@ list
 - ECE
 - TRF7TUMYF
 - HTJDKYT
-*** python
+``` python
 a=10
 print(a)
-***
+```
+
