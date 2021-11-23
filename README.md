@@ -1,6 +1,5 @@
 list
-## ordered list
-1. eee
-2. cse
-3. ece
-4. mec
+## unorder list
+- CSE
+- EEE
+- ECE
