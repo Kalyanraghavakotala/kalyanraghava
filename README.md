@@ -1,5 +1,5 @@
 list
-## oredered list
+## ordered list
 1. eee
 2. cse
 3. ece
